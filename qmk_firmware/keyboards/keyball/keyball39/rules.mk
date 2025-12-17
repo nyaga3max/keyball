@@ -47,5 +47,3 @@ SRC += lib/keyball/keyball.c
 SPACE_CADET_ENABLE = no
 GRAVE_ESC_ENABLE = no
 MAGIC_ENABLE = no
-
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5
